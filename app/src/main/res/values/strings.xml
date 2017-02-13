@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="gender">
+        <item>Boy</item>
+        <item>Girl</item>
+    </string-array>
+</resources>
